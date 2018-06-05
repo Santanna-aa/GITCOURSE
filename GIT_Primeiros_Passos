@@ -1,0 +1,13 @@
+Ciclo de vida dos arquivos no GIT (STATUS)
+
+Untracked
+	Momento que o arquivo foi adicionado no repositório, mas ainda não foi visto pelo GIT (Não reconhece no repositório nenhuma versão)
+
+Unmodified
+	Após adicionar o arquivo fica nesse status, não sofreu alteração
+
+Modified
+	Após qualquer edição
+
+Staged
+	Momento que o arquivo sofrer commit .... Após isso volta para o Unmodified
