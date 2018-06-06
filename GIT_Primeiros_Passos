@@ -20,3 +20,11 @@ git shortlog - Mostra o nome, qtd e o q foi alterado
 
 git shortlog -sn - Mostra apenas o nome e a qtd de commit
 
+git status
+
+
+Adicionei uma linha para verificar o que é o DIFF
+
+GIT DIFF é utilizado para saber o que foi alterado e revisar antes de dar o commit
+
+git diff --name-only = Retorna apenas o nome dos arquivos alterados
