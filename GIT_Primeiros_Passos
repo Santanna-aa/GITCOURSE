@@ -11,3 +11,12 @@ Modified
 
 Staged
 	Momento que o arquivo sofrer commit .... Após isso volta para o Unmodified
+
+##Comandos para verificar os logs
+
+git log - mostra todos todas alterações efetuadas
+
+git shortlog - Mostra o nome, qtd e o q foi alterado
+
+git shortlog -sn - Mostra apenas o nome e a qtd de commit
+
