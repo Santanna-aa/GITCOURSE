@@ -28,3 +28,7 @@ Adicionei uma linha para verificar o que é o DIFF
 GIT DIFF é utilizado para saber o que foi alterado e revisar antes de dar o commit
 
 git diff --name-only = Retorna apenas o nome dos arquivos alterados
+
+git checkout = Utilizado para voltar a última versão válida do arquivo antes de encaminhar para a área de UnStage
+
+git reset HEAD <nome do arquivo> = Utilizado para retirar o arquivo errado quando é feito o add
